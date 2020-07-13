@@ -1,0 +1,6 @@
+{
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "html.format.enable": false,
+    "prettier.bracketSpacing": false,
+    "prettier.jsxBracketSameLine": true
+}
