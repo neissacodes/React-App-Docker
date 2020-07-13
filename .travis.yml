@@ -1,7 +1,7 @@
 sudo: required 
 language: generic
 script: 
-  - docker run  -e CI=true nd_do/react-docker-app npm run test
+  - docker run -e CI=true nd_do/react-docker-app npm run test 
 services:
   - docker
 before_install:
