@@ -15,7 +15,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer">
-          Let's learn more!
+            I am going to MIT!
         </a>
       </header>
     </div>
